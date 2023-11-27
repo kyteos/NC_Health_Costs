@@ -1,2 +1,3 @@
 # NC_Health_Costs
-A data repository that extracts a sub dataset from a bigger csv file, which seeks to observe how socioeconomic status can impact healthcare outcomes
+
+This is a NC healthcare costs data repository that extracts a sub dataset from a bigger csv file, which seeks to observe how socioeconomic status can impact healthcare outcomes. The data looks at the median household income, healthcare costs, and the percentage of people that couldn't see a doctor due to these costs. The sub dataset for this repository was extracted from CountyHealthData_2014-2015.csv file. Potential future outcomes for this repository can include studying ways to mitigate heathcare costs and bring the percentage of "people that couldn't see a doctor due to cost" down. 
