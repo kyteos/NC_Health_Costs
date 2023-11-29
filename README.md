@@ -15,5 +15,5 @@ To get started with this repository, view the files provided and download the on
 Potential future outcomes for this repository can include studying ways to mitigate heathcare costs and bring the percentage of "people that couldn't see a doctor due to cost" down. Through this, it can help identify areas or communities that are negatively affected by healthcare costs, which can guide towards initiatives to help such areas.
 
 ## Contact Information 
-Maintained and contributed by Shreejal Paudel. For further information or help with the repository email [shreejalpaudel1234@gmail.com](shreejalpaudel1234@gmail.com)
+Maintained and contributed by Shreejal Paudel. For further information or help with the repository, email [shreejalpaudel1234@gmail.com](shreejalpaudel1234@gmail.com)
 
