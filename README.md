@@ -1,5 +1,4 @@
 # North Carolina Healthcare Costs and Outcomes 
-## More files needed to be added
 ## Description 
 This is a NC healthcare costs data repository that extracts a sub dataset from a bigger, [CountyHealthData_2014-2015.csv](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4af217e5-2988-404f-81f4-526b0c66502b) file, seeking to observe how socioeconomic status can impact healthcare outcomes. The data looks at the median household income, healthcare costs, and the percentage of people that couldn't see a doctor due to these costs. By correlating median household income and healthcare costs, the repository seeks to offer insights into how economic factors affect health services utilization. Furthermore, users are able to use this dataset for things such as public health planning as well. 
 
@@ -14,6 +13,10 @@ To get started with this repository, view the files provided and download the on
 ## Future Outcomes
 Potential future outcomes for this repository can include studying ways to mitigate heathcare costs and bring the percentage of "people that couldn't see a doctor due to cost" down. Through this, it can help identify areas or communities that are negatively affected by healthcare costs, which can guide towards initiatives to help such areas.
 
+## Data Visualization 
+
+
+
 ## Contact Information 
-Maintained and contributed by Shreejal Paudel. For further information or help with the repository, email [shreejalpaudel1234@gmail.com](shreejalpaudel1234@gmail.com)
+Maintained and contributed by Shreejal Paudel. For further information or help with the repository, email [support@github.com](support@github.com)
 
