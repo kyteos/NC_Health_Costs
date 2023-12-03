@@ -14,7 +14,7 @@ To get started with this repository, view the files provided and download the on
 Potential future outcomes for this repository can include studying ways to mitigate heathcare costs and bring the percentage of "people that couldn't see a doctor due to cost" down. Through this, it can help identify areas or communities that are negatively affected by healthcare costs, which can guide towards initiatives to help such areas.
 
 ## Data Visualization 
-![image](https://github.com/xreejal/NC_Health_Costs/assets/85139863/94ca6c2b-2775-4043-82ff-f278d675de86)
+<img width="400" src="https://github.com/xreejal/NC_Health_Costs/assets/85139863/94ca6c2b-2775-4043-82ff-f278d675de86">
 
 ## Contact Information 
 Maintained and contributed by Shreejal Paudel. For further information or help with the repository, email [support@github.com](support@github.com)
