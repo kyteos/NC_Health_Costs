@@ -6,7 +6,7 @@ Final Project for English 105 at UNC Chapel Hill
 This is a NC healthcare costs data repository that extracts a sub dataset from a bigger, [CountyHealthData_2014-2015.csv](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4af217e5-2988-404f-81f4-526b0c66502b) file, seeking to observe how socioeconomic status can impact healthcare outcomes. The data looks at the median household income, healthcare costs, and the percentage of people that couldn't see a doctor due to these costs. By correlating median household income and healthcare costs, the repository seeks to offer insights into how economic factors affect health services utilization. Furthermore, users are able to use this dataset for things such as public health planning as well. 
 
 ### Data Acquisition
-The County Health Data set (.csv file) originates from the Research Hub at the University of North Carolina Davis Library. This facility presents a variety resources to both educators and learners, aimed at enhancing coding skills.
+The County Health Data set (.csv file) originates from the Research Hub at the University of North Carolina Davis Library. This facility presents a variety of resources to both educators and learners, aimed at enhancing coding skills.
 
 ## Getting Started 
 To get started with this repository, view the files provided and download the ones needed for your own use to either use the data or re-create similar computational methods. Download the .csv file if you wish to use the data already extracted, otherwise click on the ipynb file `Healthcare_Costs.ipynb` and download it by clicking the three dots. You can use the csv file embedded within this README file to recreate similar computational methods.
